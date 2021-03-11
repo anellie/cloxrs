@@ -1,7 +1,7 @@
 [package]
-name = "loxrs"
-version = "0.1.0"
-authors = ["Ellie Ang. <felix.ang@protonmail.com>"]
+name = "cloxrs"
+version = "1.0.0"
+authors = ["Ellie Ang. <git@angm.xyz>"]
 edition = "2018"
 
 [dependencies]
